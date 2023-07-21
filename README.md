@@ -2,11 +2,16 @@
 
 This an old Unity 3D asset is meant to simplify the UI development. Currently is not maintained but it should work, PRs are welcome.
 
+This tool is very visual so it's better to learn what it does with a video:
+
+https://www.youtube.com/watch?v=qY2Qi8aBkv8
+https://www.youtube.com/watch?v=IIUTFeXQ4Uc
+
 # ⚠ Important:
 
 You can add the Rect Transform Extended component to any UI GameObject to practice and understand what this tool can do, but don't reference it from code and don't use it in production, because it's slow.
 
-Yur final code should use the following methods that will be added to the RectTransform (extension methods):
+Your final code should use the following methods that will be added to the RectTransform (extension methods):
 
 ```csharp
 yourRectTransform.GetPosition()
