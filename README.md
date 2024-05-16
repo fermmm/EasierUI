@@ -59,4 +59,4 @@ If you need a more advanced usage converting coordinates instead of setting and 
 Also these static classes contains some extra coordinate conversion methods.
 
 # License:
-[LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License)
+[LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License) It means you can use this library in a proprietary or commercial project but the library itself or modifications of it should be open source and free.
