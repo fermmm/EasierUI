@@ -1,6 +1,6 @@
 # EasierUI
 
-This an old Unity 3D asset is meant to simplify the UI development. Currently is not maintained but it should work, PRs are welcome.
+This is a Unity 3D asset meant to simplify the UI development. Currently is not maintained but it should work, PRs are welcome.
 
 This tool is very visual so it's better to learn what it does with a video:
 
