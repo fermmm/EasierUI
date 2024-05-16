@@ -7,7 +7,7 @@ This tool is very visual so it's better to learn what it does with a video:
 
 https://www.youtube.com/watch?v=IIUTFeXQ4Uc
 
-Here I did the video again with a more updated version:
+Here I did the video again with a more updated version that has more values:
 
 https://www.youtube.com/watch?v=qY2Qi8aBkv8
 
