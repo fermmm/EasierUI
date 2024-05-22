@@ -13,9 +13,8 @@ https://www.youtube.com/watch?v=qY2Qi8aBkv8
 
 # ⚠ Important:
 
-You can add the Rect Transform Extended component to any UI GameObject to practice and understand what this tool can do, but don't reference it from code and don't use it in production, because it's slow.
-
-Your final code should use the following methods that are added to the RectTransform (extension methods):
+RectTransformExtended component is meant to be used only for learning and testing, don't use it in production or reference it from code, because the performance is not good.
+Instead your code should use the following methods that are added to the RectTransform (extension methods):
 
 ```csharp
 yourRectTransform.GetPosition()
