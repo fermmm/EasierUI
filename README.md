@@ -1,7 +1,7 @@
 # EasierUI
 
 This is a Unity3D asset meant to simplify the UI development by providing more position and size values like in CSS where you have for example: 100px, 100vw, 100cqi, etc.
-Currently is not maintained but it should work, PRs are welcome.
+This is an old assed and not maintained but it should still work perfectly, PRs are welcome.
 
 This tool is very visual so it's better to learn what it does with a video:
 
